@@ -1,0 +1,3 @@
+# Crear la carpeta del proyecto.
+# Crear carpeta llamada public 
+(Todo lo que este en public es lo que los usuarios o clientes podran ver, se encontrara un archivo que cargara la logica de nuestro proyecto, tambien se encontrara los archivos estatico)
